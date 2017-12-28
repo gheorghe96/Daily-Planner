@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daily Planner</string>
+    <string name="static_shortcut_disabled_message">Mesage 1</string>
+</resources>
