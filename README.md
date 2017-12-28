@@ -1,2 +1,1 @@
-# Daily-Planner
-Android Daily Planner Application
+# Android Daily Planner Application
