@@ -1,2 +1,2 @@
 # Daily-Planner
-Daily Planner application for Androdi
+Daily Planner application for Android
