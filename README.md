@@ -1,5 +1,5 @@
 # Android Daily Planner Application
-MainActivity <br>
+<h3>MainActivity</h3> <br>
 <img src="https://github.com/gheorghe96/Daily-Planner/blob/master/Screenshots/MainActivity.png" width="400">
 Add New Event Activity
 <img src="https://github.com/gheorghe96/Daily-Planner/blob/master/Screenshots/AddActivity.png" width="400">
