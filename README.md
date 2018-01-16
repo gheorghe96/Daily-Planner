@@ -7,3 +7,5 @@
 <img src="https://github.com/gheorghe96/Daily-Planner/blob/master/Screenshots/UpdateActivity.png" width="400">
 <h3>Setting Activity</h3> <br>
 <img src="https://github.com/gheorghe96/Daily-Planner/blob/master/Screenshots/SettingActivity.png" width="400">
+<h3>Notification Service</h3> <br>
+<img src="https://github.com/gheorghe96/Daily-Planner/blob/master/Screenshots/Notification.png" width="400">
